@@ -85,4 +85,4 @@ Regularly update your system and avoid making unnecessary hardware changes. Bein
 Final Thought
 -------------
 
-BitLocker password errors can be inconvenient, but they are usually manageable with the right approach. By carefully checking for simple mistakes, using the recovery key, and understanding system changes, you can regain access without losing your data. Taking preventive measures and maintaining secure backups ensures that you remain prepared for any future issues related to BitLocker.
+Your `BitLocker Password Error <https://bitlocker-password-error.readthedocs.io/en/latest/>`_ can be inconvenient, but they are usually manageable with the right approach. By carefully checking for simple mistakes, using the recovery key, and understanding system changes, you can regain access without losing your data. Taking preventive measures and maintaining secure backups ensures that you remain prepared for any future issues related to BitLocker.
